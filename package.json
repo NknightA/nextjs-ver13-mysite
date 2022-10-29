@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-ver13-mysite",
+  "version": "1.0.0",
+  "description": "testing and build my official blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NknightA/nextjs-ver13-mysite.git"
+  },
+  "keywords": [],
+  "author": "nknight amamiya<n.knight.pc0627@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NknightA/nextjs-ver13-mysite/issues"
+  },
+  "homepage": "https://github.com/NknightA/nextjs-ver13-mysite#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@vercel/og": "^0.0.20",
+    "eslint-config-next": "^13.0.0",
+    "framer-motion": "^7.6.2",
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
